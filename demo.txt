@@ -1,1 +1,26 @@
 
+//vim:
+
+
+
+vim is a full free editor again its a commend base editor ..... but use is more difficulty of the default ides 
+                                                          
+but you know what its a some good effect ..
+if modify your ides for your swap comment it can help up ....
+  
+  vimrc.md //its my vimrc file 
+  its can help my speed ,fast and so no ......
+
+
+
+  ///////////////////////////////////////////////////////////////////////
+
+
+
+
+
+
+
+
+
+
